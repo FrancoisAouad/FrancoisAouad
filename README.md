@@ -90,11 +90,21 @@
 <h4 align="left">Testing</h4>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+
+<a href="https://junit.com" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="40" height="40"/> </a> 
+
+<a href="https://testcontainers.com" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" alt="testcontainers" width="40" height="40"/> </a> 
+
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 <h4 align="left">Tools</h4>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
+<a href="https://www.swagger.com/" target="_blank" rel="noreferrer"> 
+<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="40" height="40"/> </a> 
 
 </p>
