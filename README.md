@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Francois!</h1>
-<h3 align="center">A Software Engineer from Lebanon 🇱🇧</h3>
+<h3 align="center">A Software Engineer from Lebanon</h3>
 
 
 
