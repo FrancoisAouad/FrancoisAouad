@@ -8,5 +8,5 @@ I'm backend developer interested in building scalable systems. I'm also interest
 
 * Email: francois.j.aouad@outlook.com
 * LinkedIn: [FrancoisAouad](linkedin.com/in/francoisaouad)
-* 
+  
 ☁️ Programming is not just a craft; it's an art form. Languages and frameworks serve as the brushes and palette for a skilled artist to create their masterpiece.
