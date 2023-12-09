@@ -8,9 +8,5 @@ I'm currently working on building microservices using Node.js frameworks. I'm al
 
 * Email: francois.j.aouad@outlook.com
 * LinkedIn: [FrancoisAouad](linkedin.com/in/francoisaouad)
-
-🌱 I’m currently on a mission to learn German! Learning the language has always been a goal of mine, and I'm currently leveling up my skills and knowledge to become a Deutsch mastermind 🇩🇪! Ich werde mein Bestes geben!
-
-☁️ I'd love to share a quote that a friend once shared with me during our university days. It has been a constant source of inspiration for me, and I hope it resonates with my fellow programmers reading this as well:
-
-Programming is not just a craft; it's an art form. Languages and frameworks serve as the brushes and palette for a skilled artist to create their masterpiece.
+* 
+☁️ Programming is not just a craft; it's an art form. Languages and frameworks serve as the brushes and palette for a skilled artist to create their masterpiece.
