@@ -1,8 +1,8 @@
 ### Hello there, I'm Frank 👋
 
-I'm a backend developer interested in building scalable systems. I'm also interested in Spring boot, and Go. I'm a big linux. Hoping to learn more about Kubertes and IaC tools.
+I'm a backend developer interested in building scalable systems. I'm also interested in Spring boot, and Go. I'm a big linux fan. Hoping to learn more about Kubertes and IaC tools.
 
-💬 Feel free to ask me anything about: Software Architecture, System Design, Microservices, Design Patterns, Operating Systems, Node.js, C++, Java, Databases, DevOps, Sports, Philosophy, History, Literature. I'm eager to learn from others too!
+💬 Feel free to ask me anything about: Software Architecture, System Design, Microservices, Design Patterns, Operating Systems, Node.js, C++, Java, Databases, DevOps, Sports, Philosophy, History, Literature. I'm eager to learn from others!
 
 📫 How to reach me:
 
