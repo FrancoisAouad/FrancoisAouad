@@ -1,4 +1,4 @@
-### Hello there, I'm Frank 👋
+### Hello there, I'm Francois 👋
 
 I'm a backend developer interested in building scalable systems. I'm also interested in Spring boot, and Go. I'm a big linux fan. Hoping to learn more about Kubertes and IaC tools.
 
