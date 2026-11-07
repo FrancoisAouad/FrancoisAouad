@@ -1,12 +1,20 @@
-### Hello there, I'm Francois 👋
+# Hi, I'm Francois 👋
 
-I'm a Software Engineer interested in building scalable systems. I'm also interested in Spring boot, Go, and FastAPI. I'm a big linux fan. Hoping to learn more about Kubertes and IaC tools.
+**DevOps Engineer & Cloud Architect** — from code to cloud, provisioning solutions and engineering systems.
 
-💬 Feel free to ask me anything about: Software Architecture, System Design, Microservices, Design Patterns, Operating Systems, Node.js, C++, Java, Databases, DevOps, Sports, Philosophy, History, Literature. I'm eager to learn from others!
+I build automated, resilient infrastructure on AWS: CI/CD pipelines, Terraform-provisioned environments, and the internal tooling that keeps engineering teams shipping. I'm also the founder of [Zehnyth](https://github.com/Zehnyth), where I build open-source developer tools.
 
-📫 How to reach me:
+## What I do
 
-* Email: francois.j.aouad@outlook.com
-* LinkedIn: [FrancoisAouad](linkedin.com/in/francoisaouad)
-  
-☁️ Programming is not just a craft; it's an art form. Languages and frameworks serve as the brushes and palette for a skilled artist to create their masterpiece.
+- **Cloud & infrastructure:** AWS environments with Terraform, CloudFormation and containers
+- **Software engineering:** I write production code, not just config. Backend services and tooling in Python and Go, grounded in system design, microservices and operating systems
+- **CI/CD & release engineering:** Jenkins pipelines, release automation, build tooling
+- **Platform engineering:** internal platforms and CLI utilities that other engineers use
+- **Process automation:** turning manual runbooks into repeatable, reliable workflows
+
+## Find me
+
+- 🌐 Portfolio: [francoisaouad.com](https://francoisaouad.com)
+- 💼 LinkedIn: [FrancoisAouad](https://www.linkedin.com/in/francoisaouad/)
+
+Off the clock: Linux tinkering, retro strategy games, history and philosophy.
